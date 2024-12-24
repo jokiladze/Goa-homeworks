@@ -1,7 +1,7 @@
 from turtle import *
 
 
-speed(100 )
+speed(10)
 #ოთხკუთხედი
 
 color('blue')
